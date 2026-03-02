@@ -37,5 +37,5 @@ The project emphasizes data integrity, structured transformation, and analytical
 
 ## Layoff Trend Over Time
 
-![Layoffs Trend](layoffs_trend.png)
+![Layoffs Trend](layoff_trend.png)
 
