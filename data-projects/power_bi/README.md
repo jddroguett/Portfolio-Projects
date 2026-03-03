@@ -5,7 +5,7 @@ This project analyzes a dataset of data professionals to explore career paths, s
 
 ## Data Source
 - **File:** `Power BI - Final Project.xlsx`  
-- **Sheet:** `Data Professional Survey`  
+- **Sheet:** `Data_Professional_Survey_Breakdown.pbix`  
 - Contains survey responses including role, salary, programming language, industry, happiness metrics, and demographics.
 
 ## Data Cleaning & Transformation
