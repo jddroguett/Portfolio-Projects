@@ -3,9 +3,12 @@
 ## Project Overview
 This project analyzes a dataset of data professionals to explore career paths, salaries, industries, and other demographic factors. The workflow uses Power BI and follows a structured data preparation and cleaning process.
 
+## Dashboard File
+- Data_Professional_Survey_Breakdown.pbix
+
 ## Data Source
 - **File:** `Power BI - Final Project.xlsx`  
-- **Sheet:** `Data_Professional_Survey_Breakdown.pbix`  
+- **Sheet:** `Data Professional Survey`  
 - Contains survey responses including role, salary, programming language, industry, happiness metrics, and demographics.
 
 ## Data Cleaning & Transformation
