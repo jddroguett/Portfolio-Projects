@@ -1,3 +1,5 @@
+![excel_dashboard](excel_dashboard.png)
+
 # Customer Purchase Behavior Analysis – Excel Dashboard
 
 ## Project Overview
