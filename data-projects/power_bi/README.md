@@ -1,3 +1,5 @@
+![Data_Professional_Survey_Breakdown](Data_Professional_Survey_Breakdown_page-0001.jpg)
+
 # Power BI – Data Professional Survey Analysis
 
 ## Project Overview
