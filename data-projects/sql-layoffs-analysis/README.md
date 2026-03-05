@@ -1,3 +1,5 @@
+## Layoff Trend Over Time
+![Layoffs Trend](layoff_trend.png)
 # Global Workforce Layoffs – SQL Analysis
 
 ## Overview
@@ -35,7 +37,6 @@ The objective was to transform raw data into a structured, analysis-ready datase
 ## Key Focus
 The project emphasizes data integrity, structured transformation, and analytical trend evaluation using SQL.
 
-## Layoff Trend Over Time
 
-![Layoffs Trend](layoff_trend.png)
+
 
