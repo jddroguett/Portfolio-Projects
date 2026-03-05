@@ -1,5 +1,8 @@
 # CoinMarketCap Data Pipeline
 
+![coinmarketcap_pipeline](coinmarketcap_pipeline.png)
+
+
 ## Project Overview
 This project automates the retrieval of cryptocurrency data from the CoinMarketCap API and stores it in a CSV file for analysis. It is designed to run continuously, updating the dataset at regular intervals.
 
