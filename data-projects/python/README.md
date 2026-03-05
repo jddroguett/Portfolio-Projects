@@ -1,4 +1,4 @@
-# CoinMarketCap Data Pipeline
+
 
 ![coinmarketcap_pipeline](coinmarketcap_pipeline.png)
 
